@@ -1,1 +1,1 @@
-# inferencia
+# Curso de inferência básica
